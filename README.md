@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋, I'm WenYa 😁.
 
-<!--
-**yushen611/yushen611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I'm a 🖥️ Backend Developer, 🧠 AI Developer, and 🔗 Blockchain Developer.
+* I use 💻 Golang, 🔗 Solidity, 🐍 Python.
 
-Here are some ideas to get you started:
+# About me👇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝  [about me](https://github.com/yushen611/blogs/blob/main/about/about.md) 
+
+📝  [news](https://github.com/yushen611/blogs/blob/main/about/news.md) 
+
+📝  [resume](https://github.com/yushen611/blogs/blob/main/resume/resume-all-in-one.md) |[简历](https://github.com/yushen611/blogs/blob/main/resume/resume-all-in-one-zn.md)
+
+📝  [blogs]([yushen611/blogs (github.com)](https://github.com/yushen611/blogs)) 
+
