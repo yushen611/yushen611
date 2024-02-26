@@ -11,5 +11,5 @@ Hi there 👋, I'm WenYa 😁.
 
 ​	📝  [resume](https://github.com/yushen611/blogs/blob/main/resume/resume-all-in-one.md) |[简历](https://github.com/yushen611/blogs/blob/main/resume/resume-all-in-one-zn.md)
 
-​	📝  [blogs](https://github.com/yushen611/blogs)) 
+​	📝  [blogs](https://github.com/yushen611/blogs)
 
